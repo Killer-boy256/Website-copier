@@ -19,8 +19,8 @@ Off King is an educational web security toolkit designed to help cybersecurity s
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/offking-tool.git
-cd offking-tool
+git clone https://github.com/killer-boy256/offking-tool.git
+cd offking-tool.
 
 # Install dependencies
 pip install -r requirements.txt
