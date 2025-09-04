@@ -1,6 +1,6 @@
 # Off King - Educational Web Security Tool
 
-![Off King Banner](assets/banner.png)
+![Off King Banner](banner.png)
 
 > ⚠️ **IMPORTANT**: For educational purposes only. Use responsibly and only on websites you own.
 
